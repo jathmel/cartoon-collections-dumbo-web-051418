@@ -9,7 +9,7 @@ def summon_captain_planet(elements)# code an argument here
   # Your code here
   elements.map do |el|
     el.capitalize!
-    # el << '!'
+    el << '!'
   end
 end
 
